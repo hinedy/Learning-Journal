@@ -7,11 +7,3 @@ Followed [figma design](https://www.figma.com/file/hE5klIn1AEQ9XWZWmurs7y/Learni
 
 Further experimenting with CSS grid.
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
